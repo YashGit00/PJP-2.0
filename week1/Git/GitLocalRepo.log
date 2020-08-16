@@ -1,0 +1,82 @@
+commit 11c0f33e856772f70501f49db8db16ead6c4a9d7 (HEAD -> master)
+Merge: 29981f5 664c61a
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 18:44:31 2020 +0530
+
+    Merge branch 'Feature'
+
+commit 664c61aad53f1737e43391040aae4fab469d8643 (Feature)
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 18:32:45 2020 +0530
+
+    3rd feature added
+
+commit 48308562e82d087dc5a19273bd571a793bb9373e
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 18:27:42 2020 +0530
+
+    Adding new feature from another repository
+
+commit 29981f5fc185e326f01d4d9a299fa59753717cad
+Merge: 6ad1265 9ca35dd
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:46:45 2020 +0530
+
+    Merging to Production/master
+
+commit 6ad1265bad21eba9a7b6bc0e6dfaef4548faafaa
+Merge: 9c5196a bf70bf8
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:46:11 2020 +0530
+
+    Merging to Production/master
+
+commit 9c5196a2e694add4826f666390d6aa8404e4d68a
+Merge: 04ec9ab e473658
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:45:15 2020 +0530
+
+    Merge branch 'Feature'
+
+commit 9ca35ddbac9c1ac046509d0f8847372d1608843d (Delivery)
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:44:27 2020 +0530
+
+    Added a file from Delivery branch
+
+commit bf70bf84f7a9dc643dd5c3eb5de8fc1193a68357 (QA)
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:42:16 2020 +0530
+
+    Added a file from QA branch
+
+commit 04ec9ab750a9ffe584d49b7a3a8a7ddb15eca772
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:41:15 2020 +0530
+
+    Added a file from Development branch
+
+commit e4736584bcc33a4bac141283093e4d53a3cf855c
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:39:03 2020 +0530
+
+    Added a file from Feature branch
+
+commit 61801ef869ce0bb4af0d29a6acfc6f66075772af
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:25:18 2020 +0530
+
+    Removed an unwanted file
+
+commit 5ea87216d43142bfa918f2641570b2017c85e29d
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:24:42 2020 +0530
+
+    Added an unwanted file
+
+commit 8f1c0fd1ee70534d763d1fbb37a0d52a6297c36b
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 17:13:50 2020 +0530
+
+    Added README file
+

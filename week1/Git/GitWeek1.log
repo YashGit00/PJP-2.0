@@ -1,0 +1,29 @@
+commit 1a5371da781b8adb8921639d370473f98d62d3de (HEAD -> week1, origin/week1)
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Sun Aug 16 13:19:02 2020 +0530
+
+    error
+
+commit 45dea53210af076e85a577cbf9ba9030f372ac55
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Sun Aug 16 13:18:33 2020 +0530
+
+    A small error
+
+commit 09dcb0484ae2d3bba5e385f7dceb25c522986ca1
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Sun Aug 16 13:15:04 2020 +0530
+
+    LocalRepoCloned submodule added
+
+commit 24e139ca755e9b680d9e7a233aefc627adb8989c
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Sun Aug 16 13:14:03 2020 +0530
+
+    LocalRepoAssn submodule added
+
+commit d6dd011cc7579095f6073d9e7c120b48e0ee617d
+Author: Yash Shah <yashshah160498@gmail.com>
+Date:   Fri Aug 14 18:56:26 2020 +0530
+
+    Week1 code added
