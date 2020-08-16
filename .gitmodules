@@ -1,3 +1,6 @@
 [submodule "localRepoAssn"]
 	path = localRepoAssn
 	url = /home/ttxt/PS/PJP2.0/week1/Git/localRepoAssn/
+[submodule "localRepoCloned"]
+	path = localRepoCloned
+	url = /home/ttxt/PS/PJP2.0/week1/Git/localRepoCloned/
