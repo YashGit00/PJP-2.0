@@ -1,0 +1,33 @@
+2020-09-14 16:32:04,117 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-14 16:33:54,864 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BankInvoicingCalculator:com.publicis.sapient.demo:0.0.1-SNAPSHOT @ C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\pom.xml.
+2020-09-14 16:33:54,864 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BankInvoicingCalculator:com.publicis.sapient.demo:0.0.1-SNAPSHOT @ C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\pom.xml.
+2020-09-14 16:34:01,315 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:34:01,316 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\main\resources
+2020-09-14 16:34:01,318 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:34:01,318 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\test\resources
+2020-09-14 16:34:02,989 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BankInvoicingCalculator:com.publicis.sapient.demo:0.0.1-SNAPSHOT @ C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\pom.xml.
+2020-09-14 16:34:02,998 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:34:02,998 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\main\resources
+2020-09-14 16:34:03,002 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:34:03,002 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\test\resources
+2020-09-14 16:34:04,389 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:34:04,390 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\main\resources
+2020-09-14 16:34:04,391 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:34:04,392 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\test\resources
+2020-09-14 16:34:05,410 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:34:05,410 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\main\resources
+2020-09-14 16:34:05,412 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:34:05,412 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\test\resources
+2020-09-14 16:35:43,276 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:35:43,276 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\main\resources
+2020-09-14 16:35:43,278 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:35:43,278 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\test\resources
+2020-09-14 16:35:48,212 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:35:48,212 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\main\resources
+2020-09-14 16:35:48,215 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:35:48,215 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\test\resources
+2020-09-14 16:36:03,658 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:36:03,658 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\main\resources
+2020-09-14 16:36:03,660 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-14 16:36:03,660 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\src\test\resources
+2020-09-14 16:54:14,334 [Worker-33: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\beast\PS 2.0\Spring Framework\com.publicis.sapient.demo\.git]
